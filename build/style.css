@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+.items{
+    width: 480px;
+    padding: 18px;
+    background-color: skyblue;
+
+}
+
+
+.item-parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
